@@ -1,0 +1,12 @@
+h1 {font-family: Arial;
+    color:orangered;
+    font-size: 50px;
+}
+.post-list{
+    margin:10px;
+    padding:10px;
+    border: 2px solid;
+}
+body{
+    background-color: white;
+}
